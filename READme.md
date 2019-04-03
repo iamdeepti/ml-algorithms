@@ -1,4 +1,5 @@
 # ml-algorithms
+[![HitCount](http://hits.dwyl.io/iamdeepti/ml-algorithms.svg)](http://hits.dwyl.io/iamdeepti/ml-algorithms)
 This repository will feature popular ML algorithms written from scratch
 
 The libraries used for this repository are:
