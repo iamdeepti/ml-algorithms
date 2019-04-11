@@ -23,6 +23,7 @@ LinearRegression.ipynb : uses the data from 'Summary of weather.csv" and predict
 
 LogisticRegressioin.ipynb : uses the data from 'adevertising.csv' and predicts whether a user will click on an add or not using logistic regression with accuracy 95.75%
 
+Backpropagation.ipynb : uses data from 'test.csv' and predicts the label for image using one vs all classification
 
 # DataSets:
 Apple_Store.csv : contains data of ios app (but unfortunately it doesn't include no. of downloads, so I won't be using this dataset any further)
@@ -31,7 +32,7 @@ Advertising.csv : contains data such as no of hours spent on website, daily inte
 
 Summary of Weather.csv : contains data like "maximum temperature, minimum temperature etc. "
 
-test.csv : contains data about images (cv problem)
+test.csv : contains data about image pixel (cv problem)
 
 
 I have included required comments so that a newbie in python having basic programming knowledge can understand
